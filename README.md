@@ -3,13 +3,13 @@ To get started with this project, follow the steps below:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/react-native-project.git
+   git clone https://github.com/AdityaGupta1903/Admin-Dashboard.git
    ```
 
 2. Change into the project directory:
 
    ```
-   cd Growing-Agro
+   cd Admin-Dashboard
    ```
 
 3. Install the project dependencies using npm or yarn:
@@ -49,15 +49,6 @@ To get started with this project, follow the steps below:
    ```
 
    Make sure you have a suitable emulator or device configured.
-
-## Folder Structure
-
-The folder structure of this project is as follows:
-
-- `android/`: Contains the Android-specific configuration files and build scripts.
-- `ios/`: Contains the iOS-specific configuration files and build scripts.
-- `src/`: Contains the source code for the React Native application.
-- `App.js`: The entry point of the application.
 
 ## Contributing
 
